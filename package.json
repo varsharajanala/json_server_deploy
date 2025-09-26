@@ -1,0 +1,19 @@
+{
+  "name": "json_server_deploy",
+  "version": "1.0.0",
+  "description": "JSON server for student registration CRUD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "json-server",
+    "students",
+    "api",
+    "crud"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
+}
